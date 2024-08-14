@@ -36,7 +36,7 @@ void podaci() {
 	printf("Tema: Racunarska realizacija Turing-ove masine\n");
 	printf("Test primer [universal]: UNIVERZALNI PROGRAM\n");
 	printf("Mentor: dr Branko Malesevic, vanredni profesor\n");
-	printf("Student 2: Nemanja Karapetrovic [broj indeksa: ****/****]\n");
+	printf("Student: Nemanja Karapetrovic [broj indeksa: ****/****]\n");
 	printf("Napomena: Potrebno je da se ulazna datoteka zove ulaz.txt i da se nalazi gde i izvorni fajl Universal_Turing_Machine.c .\n");
 	printf("Vreme: %s", ctime(&vreme));
 	puts("-----------------------------------------------------------------------------------------------------------------------------------------------------");
